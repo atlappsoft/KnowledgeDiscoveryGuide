@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KnowledgeDiscoveryGuide</string>
+    <string name="mensaje_inicial"></string>
 </resources>
